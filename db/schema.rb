@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2023_10_20_132912) do
+ActiveRecord::Schema.define(version: 2024_01_23_163025) do
 
   create_table "sessions", force: :cascade do |t|
     t.string "coach_hash_id"
